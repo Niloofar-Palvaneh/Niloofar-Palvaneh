@@ -18,6 +18,7 @@ src="https://img.shields.io/github/followers/Niloofar-Palvaneh?logo=github&style
 
 <p align="left">
 html css js react redux tailwind next mui bootstrap </p>
+<i class="fa-solid fa-camera"></i>
 
 ### Socials
 
