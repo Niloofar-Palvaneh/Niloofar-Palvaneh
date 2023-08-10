@@ -13,7 +13,7 @@ I was able to reach an acceptable level in the field of front-end with a few mon
 * 🤝  I'm open to collaborating on front field
 
 <a href="https://www.github.com/Niloofar-Palvaneh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Niloofar-Palvaneh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Niloofar-Palvaneh?logo=github&style=for-the-badge&color=0891b2&labelColor=7f1d1d" /></a>
 ### Skills
 
 <p align="left">
@@ -22,4 +22,3 @@ ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON </p>
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Niloofar-Palvaneh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/نیلوفر-پالوانه-023b32245/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/21357862" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitter.com/NPalvaneh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
