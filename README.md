@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/Niloofar-Palvaneh?logo=github&style
 
 <p align="left">
 html css js react redux tailwind next mui bootstrap </p>
-<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg](https://img.icons8.com/?size=512&id=43334&format=png)" width="32" height="32" />
+<img src="https://www.svgrepo.com/show/19515/coding.svg" width="32" height="32" />
 
 ### Socials
 
