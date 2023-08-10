@@ -18,8 +18,7 @@ src="https://img.shields.io/github/followers/Niloofar-Palvaneh?logo=github&style
 
 <p align="left">
 html css js react redux tailwind next mui bootstrap </p>
-<i class="fa-solid fa-camera">nnn</i>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-code" viewBox="0 0 16 16"> <path d="M5.854 4.854a.5.5 0 1 0-.708-.708l-3.5 3.5a.5.5 0 0 0 0 .708l3.5 3.5a.5.5 0 0 0 .708-.708L2.707 8l3.147-3.146zm4.292 0a.5.5 0 0 1 .708-.708l3.5 3.5a.5.5 0 0 1 0 .708l-3.5 3.5a.5.5 0 0 1-.708-.708L13.293 8l-3.147-3.146z"/> </svg>
+<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg](https://img.icons8.com/?size=512&id=43334&format=png)" width="32" height="32" />
 
 ### Socials
 
