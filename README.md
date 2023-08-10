@@ -17,11 +17,9 @@ src="https://img.shields.io/github/followers/Niloofar-Palvaneh?logo=github&style
 ### Skills
 
 <p align="left">
-    redux tailwind next mui bootstrap </p>
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="32" height="32" />
-<img src="https://www.svgrepo.com/show/452185/css-3.svg" width="32" height="32" />
-<img src="https://www.svgrepo.com/show/373705/js-official.svg" width="32" height="32" />
-<img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" width="32" height="32" />
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="32" height="32" />  <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="32" height="32" />  <img src="https://www.svgrepo.com/show/373705/js-official.svg" width="32" height="32" />  <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" width="32" height="32" />  <img src="https://www.svgrepo.com/show/452093/redux.svg" width="32" height="32" />  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="32" height="32" />  <img src="https://www.svgrepo.com/show/354112/nextjs.svg" width="32" height="32" />  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="32" height="32" />
+</p>
+
 
 ### Socials
 
