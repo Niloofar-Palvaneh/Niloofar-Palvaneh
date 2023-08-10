@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/Niloofar-Palvaneh?logo=github&style
 ### Skills
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON </p>
+html css js react redux tailwind next mui bootstrap </p>
 
 ### Socials
 
