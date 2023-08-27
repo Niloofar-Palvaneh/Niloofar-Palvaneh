@@ -8,7 +8,7 @@ I was able to reach an acceptable level in the field of front-end with a few mon
 
 * 🌍  I'm based in Tehran
 * 🖥️  See my portfolio at [My Cv](https://my-web-o8ki.vercel.app/)
-* ✉️  You can contact me at [niloofarpalvaneh@gmail.com](mailto:niloofarpalvaneh@gmail.com)
+* 💌  You can contact me at [niloofarpalvaneh@gmail.com](mailto:niloofarpalvaneh@gmail.com)
 * 🧠  I'm learning More skills in the front field
 * 🤝  I'm open to collaborating on front field
 
